@@ -11,7 +11,7 @@
     "author": "albez",
     "contributors": [],
     "dependencies": {
-        "mysql": "*",
-        "memcached": "*"
+        "memcached": "*",
+        "websocket": "*"
     }
 }
